@@ -3,5 +3,5 @@
 > Status do curso: em desenvolvimento!
 
 ```
-Requisitos: computador, GitHub e paciência.
+node app.js
 ```
